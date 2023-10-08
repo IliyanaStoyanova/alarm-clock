@@ -6,3 +6,13 @@
 .container img {
   width: 50%;
 }
+.hide {
+  display: none;
+}
+.error {
+  color: red;
+  font-size: 0.8em;
+}
+.error::before {
+  content: '*';
+}
