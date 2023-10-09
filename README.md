@@ -20,6 +20,10 @@ Once the time is up, you will hear a ringtone and you can stop it by pressing Re
 - Alarm setting button;
 - Alarm reset button.
 
+### Start the project
+
+> :white_check_mark: open index.html in the browser
+
 ### Screenshots
 
 ---
