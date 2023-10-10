@@ -29,8 +29,8 @@ Once the time is up, you will hear a ringtone and you can stop it by pressing Re
 ---
 
 - **_Home:_** <br />
-  ![alarm](https://github.com/IliyanaStoyanova/alarm-clock/assets/52379824/9fdc6d65-5cd7-477d-b771-bd98753de29b) <br />
+![alarmClock](https://github.com/IliyanaStoyanova/alarm-clock/assets/52379824/cf4a60c2-22dc-4547-a3ff-7da619b20a81) <br />
 - **_Validate:_** <br />
-  ![error](https://github.com/IliyanaStoyanova/alarm-clock/assets/52379824/f0887c7c-4555-473d-9d89-7c024688a0e1) <br />
+![alarmClock-error](https://github.com/IliyanaStoyanova/alarm-clock/assets/52379824/38f33eab-8d3e-4074-b940-bc914bd09a60) <br />
 - **_Reset Alarm:_** <br />
-  ![reset](https://github.com/IliyanaStoyanova/alarm-clock/assets/52379824/a7472b55-3e5a-49fa-8073-a387226421b2)
+![alarmClock-reset](https://github.com/IliyanaStoyanova/alarm-clock/assets/52379824/e52e84f8-a988-4119-8dfc-12b649cf949e)
